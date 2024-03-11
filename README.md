@@ -115,7 +115,7 @@ Please see our guidelines in the [developer documentation](./CONTRIBUTING.md)
 
 
 ## ❤️ Contributors
-
+[huyenmy38ht](https://discord.com/channels/700454073459015690/973994779425767434)
 View all Leo contributors [here](./CONTRIBUTORS.md).
 
 ## 🛡️ License
